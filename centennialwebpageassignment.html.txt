@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<!-- Created by: Hyunho Jeong - Created on : 09/10/2020 -->
+<html lang="en">
+  <head></head>
+  <body style="background-color:skyblue; color:black; font-family:Verdana;">
+    <div style="width:980px; margin-left:auto; margin-right:auto;">
+      <header>
+        <img src="logo.gif">
+        <hr style="border-styleborder-style:solid; border-color:red; border-width;2px;">
+        <h3>COMP213 - Web Interface Design - Fall 2020</h3>
+        <h4>Student Name: Hyunho Jeong - Student No. 301136684</h4>
+        <hr style="border-style:solid; border-color:red; border-width;2px;"
+      <header>
+      <main>
+        <p>I'm a student in the Software Engineering at the Centennial College.</p>
+        <p>Before this college, I just graduated high school in South Korea.</p>
+        <img src="https://www.google.com/search?q=asus+logo&sxsrf=ALeKk035GwagKso6LOoZYICQ3XUr1a59Vw:1602891614754&tbm=isch&source=iu&ictx=1&fir=C8PumxBjrPtYwM%252CJq1IovnDSjbc-M%252C_&vet=1&usg=AI4_-kShTbzSHtvpy4XaOWMX0GOCKwZx9A&sa=X&ved=2ahUKEwjt4b3KpLrsAhXtmOAKHbkGABEQ9QF6BAgKEFo#imgrc=C8PumxBjrPtYwM" alt="picture of ASUS logo" style="float:right;">
+        <p>One of my important thing that I can't live without is my Gaming Laptop.</p>
+        <p>My favorite things to do:</p>
+        <ul style="list-style-star">
+          <li>Traveling</li>
+          <li>Playing Video Games</li>
+          <li>Watching Movie</li>
+          <li>Listening Music</li>
+          <li>Singing</li>
+          <li>Reading</li>
+          </ul>
+      <br>
+      <a href="Week02/Week02.html">Week O2 Class</a>
+      <br>
+      <a href="Week03/03.html">Week 03 Class</a>
+      <br>
+          <hr style="border-style:solid; border-color:red; border-width;2px;">
+          <footer> <h6>©&nbsp;Copyright Hyunho Jeong - COMP213 - Fall 2020</footer>
+        <hr style="border-style:solid; border-color:red; border-width;2px;">  
+    </div>
+  </body>
+</html>
